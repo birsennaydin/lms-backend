@@ -312,15 +312,3 @@ vendor/bin/phpunit --testdox
 ```
 
 ---
-
-# 14. Conclusion
-
-This project implements:
-
-- Clean DDD domain
-- Fully tested business logic
-- Repository abstraction
-- Application service layer
-- API design ready for integration
-
-The solution meets all requirements of the task **without using frameworks or databases**, while keeping the architecture fully extendable for future API implementation.

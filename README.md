@@ -1,7 +1,6 @@
 # LMS Backend – Domain Model & API Design Specification
 
-This document provides a full overview of the LMS backend domain model, application services, repository structure, and the designed HTTP API that could be built on top of this architecture.  
-The exercise does **not require implementing a real API**, only designing one.  
+This document provides a full overview of the LMS backend domain model, application services, repository structure, and the designed HTTP API that could be built on top of this architecture.   
 All domain logic, entities, and services are fully implemented and tested.
 
 ---
@@ -18,7 +17,7 @@ The project consists of:
 - **Tests**: Fully covers both domain and application logic
 - **API Design**: A clear HTTP interface mapping to application services
 
-No frameworks and no database are used (as required by the exercise).
+No frameworks and no database are used.
 
 ---
 
